@@ -1,0 +1,6 @@
+rik        94
+Mike        95
+Kelly       85
+George      90
+Tony        89
+Luka        87
